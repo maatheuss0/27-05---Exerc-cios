@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.exe
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.deps.json
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.runtimeconfig.json
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.runtimeconfig.dev.json
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.dll
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\ref\Café.dll
+C:\Users\user\Desktop\Café\bin\Debug\net5.0\Café.pdb
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.AssemblyInfo.cs
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.dll
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\ref\Café.dll
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.pdb
+C:\Users\user\Desktop\Café\obj\Debug\net5.0\Café.genruntimeconfig.cache
